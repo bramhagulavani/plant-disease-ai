@@ -3,3 +3,24 @@ venv/
 env/
 ENV/
 data/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (large/generated)
+models/*.h5
+models/*.ckpt
+models/*.pt
+models/*.pth
+models/*.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
