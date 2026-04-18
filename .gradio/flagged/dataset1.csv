@@ -1,0 +1,2 @@
+Upload a leaf photo,Disease Prediction,timestamp
+,"{""label"": ""Strawberry - Leaf scorch"", ""confidences"": [{""label"": ""Strawberry - Leaf scorch"", ""confidence"": 78.73508930206299}, {""label"": ""Pepper, bell - Bacterial spot"", ""confidence"": 18.858227133750916}, {""label"": ""Apple - Black rot"", ""confidence"": 0.9478136897087097}]}",2026-04-18 09:33:28.841646
